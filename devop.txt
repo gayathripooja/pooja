@@ -3,3 +3,5 @@ jenkins
 tomcat
 maven
 jira
+jboss
+ant
