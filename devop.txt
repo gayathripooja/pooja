@@ -5,4 +5,4 @@ maven
 jira
 jboss2
 ant
-stash
+bamboo
